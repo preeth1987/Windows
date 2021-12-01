@@ -12,4 +12,4 @@ set CUR_SS=%time:~6,2%
 set CUR_MS=%time:~9,2%
 set SUBFILENAME=%CUR_YYYY%-%CUR_MM%-%CUR_DD%-%CUR_HH%-%CUR_NN%-%CUR_SS%
 
-%Cygwin%\mintty.exe -l %Cyghome%\logs\logs\log_%SUBFILENAME%.log  -i /Cygwin-Terminal.ico -D -h a -
+%Cygwin%\mintty.exe --size 85,20 -l %Cyghome%\logs\logs\log_%SUBFILENAME%.log  -i /Cygwin-Terminal.ico -D -h a -
