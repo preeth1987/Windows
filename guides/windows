@@ -1,0 +1,13 @@
+============================================
+
+Microsoft Windows commands:
+
+Get complete battery report: Gives complete health since OS installation. Very detail.
+powercfg /batteryreport
+
+Tools:
+Download hwinfo or BatteryInfoView by NirSoft
+
+<END>
+<START>
+============================================
